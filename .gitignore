@@ -1,0 +1,9 @@
+# Build output
+build/
+panel
+
+# Downloaded/cached images
+*.jpg
+*.jpeg
+*.png
+*.gif
