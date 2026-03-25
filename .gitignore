@@ -1,6 +1,7 @@
 # Build output
 build/
 panel
+.vscode/
 
 # Downloaded/cached images
 *.jpg
